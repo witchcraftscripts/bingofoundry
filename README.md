@@ -1,9 +1,37 @@
-# DBD Bingo Widget
-
+# BingoFoundry
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![OBS Widget](https://img.shields.io/badge/OBS-compatible-blueviolet)
 ![Web Widget](https://img.shields.io/badge/Web--Widget-HTML%2FCSS%2FJS-blue)
 ![Stars](https://img.shields.io/github/stars/witchcraftscripts/bingo-for-the-entity?style=social)
+
+# BingoFoundry 🎮
+
+**Formerly Bingo for the Entity | Originally the DBD Bingo Widget**
+
+BingoFoundry is evolving from a *Dead by Daylight* Twitch bingo overlay into a customizable bingo platform designed for gamers, streamers, and their communities.
+
+### 🛠️ Project Update | October 10, 2026
+
+Today marks the beginning of BingoFoundry's next chapter!
+
+The repository has been renamed from `bingo-for-the-entity` to `bingofoundry` to reflect the project's expanded vision.
+
+**What's planned for BingoFoundry?**
+
+- Customizable bingo cards for multiple games and genres
+- Custom challenge packs and reusable presets
+- Multiple visual themes, color palettes, and sound effects
+- OBS-friendly overlays and streamer controls
+- Saved games, session histories, and progress recovery
+- Future community and multiplayer bingo experiences
+
+**Current Status:** Planning and early development.
+
+The original *Dead by Daylight* bingo widget remains the current playable version while the expanded BingoFoundry platform is developed.
+
+Thank you for being part of the journey!
+
+------------------------------
 
 A custom Twitch overlay widget designed for *Dead by Daylight* bingo games. Perfect for streamers who want to add chaotic, creepy fun and viewer interaction to their broadcasts.
 
