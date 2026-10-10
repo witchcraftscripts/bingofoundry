@@ -4,8 +4,6 @@
 ![Web Widget](https://img.shields.io/badge/Web--Widget-HTML%2FCSS%2FJS-blue)
 ![Stars](https://img.shields.io/github/stars/witchcraftscripts/bingo-for-the-entity?style=social)
 
-# BingoFoundry 🎮
-
 **Formerly Bingo for the Entity | Originally the DBD Bingo Widget**
 
 BingoFoundry is evolving from a *Dead by Daylight* Twitch bingo overlay into a customizable bingo platform designed for gamers, streamers, and their communities.
